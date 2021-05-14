@@ -1,0 +1,18 @@
+.header {
+    display:flex;
+    background-color: bisque;
+}
+
+.TheGrid {
+    display:flex;
+    flex-wrap: wrap;
+    border: 2px solid white;
+border-radius: 50px;
+}
+
+.animal img {
+border: 2px solid black;
+border-radius: 50px;
+width: 310px; 
+
+}
